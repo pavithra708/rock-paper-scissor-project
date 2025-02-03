@@ -16,13 +16,9 @@ A simple web-based Rock Paper Scissors game where users can play against the com
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/pavithra708/rock-paper-scissor-project/tree/main
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd rock-paper-scissors
-   ```
-3. Open `index.html` in your preferred browser.
+2. Open `rock.html` in your preferred browser.
 
 ## ⚡ Usage
 1. Select Rock, Paper, or Scissors.
@@ -39,9 +35,9 @@ Result: You Lose!
 ## 📂 Project Structure
 ```
 rock-paper-scissors/
-├── index.html
-├── style.css
-└── script.js
+├── rock.html
+├── paper.css
+└── scissor.js
 ```
 
 ## 📝 Contributing
